@@ -1,5 +1,7 @@
 # 'Follina' MS-MSDT n-day Microsoft Office RCE
 
+Important notice in README file.
+
 Quick POC to replicate the 'Follina' Office RCE vulnerability for local testing purposes. Running the script will generate a `clickme.docx` (or `clickme.rtf`) payload file in your current working directory, and start a web server with the payload file (`www/exploit.html`). The payload and web server parameters are configurable (see help and examples).
 
 > ⚠ DO NOT USE IN PRODUCTION LEST YOU BE REGARDED A DUMMY
